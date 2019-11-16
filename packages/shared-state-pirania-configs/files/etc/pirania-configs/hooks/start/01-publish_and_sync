@@ -1,0 +1,3 @@
+#!/bin/sh
+/etc/shared-state/publishers/shared-state-publish_pirania_configs
+shared-state sync pirania-configs
